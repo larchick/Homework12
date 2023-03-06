@@ -12,5 +12,6 @@ public class Main {
         book1.setPublishingYear(1900);
         System.out.println(book1.getPublishingYear());
 
+        System.out.println(book1);
     }
 }
